@@ -18,5 +18,8 @@ String Custname;
     return this.custName
 
   }
+   public void getCustomer()
+   {
+   }
 
 }
