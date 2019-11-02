@@ -18,5 +18,10 @@ String Custname;
     return this.custName
 
   }
+   public void showCustomer()
+   {
+     
+     
+   }
 
 }
